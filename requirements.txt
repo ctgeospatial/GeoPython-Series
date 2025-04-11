@@ -1,0 +1,9 @@
+geopandas
+rasterio
+folium
+shapely
+pyproj
+geopy
+contextily
+matplotlib
+jupyter
